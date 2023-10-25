@@ -1,6 +1,12 @@
-.App {
+.App > h1 {
+  text-align: center;
 }
 
 .App-header {
   text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
