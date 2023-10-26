@@ -1,4 +1,4 @@
-.App > h1 {
+.App {
   text-align: center;
 }
 
@@ -9,4 +9,5 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  text-align: left;
 }
